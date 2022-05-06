@@ -13,3 +13,5 @@ Fui desafiado durante o NLW, para assimilar e internalizar profundamente cada co
 1. #NextLevel
 2. #NeverStopLearning
 3. #NewSkills
+4. #StepByStep
+5. #MissionAccomplished
